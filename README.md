@@ -13,7 +13,7 @@
 ![snapshot2](snapshots/snapshot2.png)
 
 ## Snapshot 3 - Start (blue)
-![snapshot3](snapshots/snapshot3.png)
+![snapshot3](snapshots/Screenshot-2.jpg)
 
 ## Snapshot 4 - Start (gray)
 ![snapshot4](snapshots/snapshot4.png)
